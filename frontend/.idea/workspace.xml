@@ -38,7 +38,9 @@
       <change afterPath="$PROJECT_DIR$/../../../Haskell/my-project/my-project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blu/.idea/blu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Register.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Dashboard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ForgotPassword.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Dashboard.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Python/scratch/.idea/scratch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Autohotkey" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Autohotkey" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../C/Binary-search-tree-operations" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C/Binary-search-tree-operations" afterDir="false" />
@@ -938,6 +940,12 @@
       <change beforePath="$PROJECT_DIR$/../../meme4th" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../website" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Register.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Register.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Login.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/FFXIV-Nael-Divebombs.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/dictionaries/super.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/misc.xml" beforeDir="false" />
@@ -4378,8 +4386,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="TypeScript JSX File" />
         <option value="CSS File" />
+        <option value="TypeScript JSX File" />
       </list>
     </option>
   </component>
@@ -4428,7 +4436,7 @@
       <updated>1632611519287</updated>
       <workItem from="1632611520557" duration="864000" />
       <workItem from="1632612402461" duration="1788000" />
-      <workItem from="1632614215517" duration="1516000" />
+      <workItem from="1632614215517" duration="3212000" />
     </task>
     <servers />
   </component>
@@ -4472,5 +4480,9 @@
     </state>
     <state width="2731" height="218" key="GridCell.Tab.0.right/-1920.139.1920.1030/0.0.2752.1112/3440.124.1920.1040/-3840.128.1920.1040@0.0.2752.1112" timestamp="1632614468866" />
     <state width="2731" height="305" key="GridCell.Tab.0.right/-1920.139.1920.1030/0.0.2752.1112/3440.124.1920.1040@0.0.2752.1112" timestamp="1632612390849" />
+    <state x="1033" y="259" key="run.anything.popup" timestamp="1632615796281">
+      <screen x="0" y="0" width="2752" height="1112" />
+    </state>
+    <state x="1033" y="259" key="run.anything.popup/-1920.139.1920.1030/0.0.2752.1112/3440.124.1920.1040/-3840.128.1920.1040@0.0.2752.1112" timestamp="1632615796281" />
   </component>
 </project>

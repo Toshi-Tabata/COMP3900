@@ -22,10 +22,10 @@ const Login: FC<Props> = (props) => {
 
     return (
         <div id={"loginPage"}>
-            <h1> Sign In </h1>
+            <h1> Member Login </h1>
             <Form>
                 <Form.Group controlId="formBasicEmail">
-                    <Form.Label>Email address</Form.Label>
+                    <Form.Label>Email</Form.Label>
                     <Form.Control type="email" placeholder="Enter email" onChange={(e) => setEmail(e.target.value)} />
                 </Form.Group>
 
@@ -37,9 +37,19 @@ const Login: FC<Props> = (props) => {
                         onChange={(e) => setPassword(e.target.value)}
                     />
                 </Form.Group>
-                <Button variant="primary" type="submit" onClick={handleLogin}>
-                    Sign in
-                </Button>
+
+                <div id={"loginButtons"}>
+                    <Button variant="primary" type="submit" onClick={handleLogin}>
+                        Login
+                    </Button>
+                    <div>
+                        <a href="" onClick={() => history.push("/register")}>Create New Account</a>
+                    </div>
+                    <div>
+                        <a href="" onClick={() => history.push("/forgotpassword")}>Forgot password</a>
+                    </div>
+                </div>
+
 
             </Form>
         </div>
