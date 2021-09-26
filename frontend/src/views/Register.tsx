@@ -48,9 +48,8 @@ const Register: FC<Props> = (props) => {
                     <Button variant="primary" type="submit" onClick={handleRegister}>
                         Register
                     </Button>
-                    <div>
-                        <Link to={"login"} >Already have an account? <br/> Login Now</Link>
-                    </div>
+                    <Link to={"login"} >Already have an account? <br/> Login Now</Link>
+
                 </div>
             </Form>
 

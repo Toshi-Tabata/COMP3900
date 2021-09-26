@@ -3,6 +3,7 @@ import { Form, Button } from 'react-bootstrap';
 import { useHistory, Link } from 'react-router-dom';
 import '../styles/Login.css';
 
+import Auth from '../api/AuthApi';
 interface Props {}
 
 
@@ -14,7 +15,7 @@ const Login: FC<Props> = (props) => {
     function handleLogin() {
 
         // TODO: get token from backend, store it in redux
-
+        // Auth.login(email, password);
         history.push('/dashboard')
     }
 
