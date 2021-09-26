@@ -1,8 +1,6 @@
 import React, { FC } from 'react'
 import { Form, Button } from 'react-bootstrap';
-import { useHistory } from 'react-router-dom';
-
-
+import { useHistory, Link } from 'react-router-dom';
 import '../styles/Login.css';
 
 interface Props {}
@@ -42,12 +40,10 @@ const Login: FC<Props> = (props) => {
                     <Button variant="primary" type="submit" onClick={handleLogin}>
                         Login
                     </Button>
-                    <div>
-                        <a href="" onClick={() => history.push("/register")}>Create New Account</a>
-                    </div>
-                    <div>
-                        <a href="" onClick={() => history.push("/forgotpassword")}>Forgot password</a>
-                    </div>
+
+                    <Link to={"register"}>Create New Account</Link>
+                    <Link to={"forgotpassword"}>Forgot password</Link>
+
                 </div>
 
 

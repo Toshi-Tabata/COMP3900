@@ -38,9 +38,16 @@
       <change afterPath="$PROJECT_DIR$/../../../Haskell/my-project/my-project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blu/.idea/blu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Dashboard.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ForgotPassword.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api/AuthApi.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/DeleteAccount.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Logout.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/NavRoute.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navbar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/ResetAccount.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Friends.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Portfolio.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Python/scratch/.idea/scratch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Autohotkey" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Autohotkey" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../C/Binary-search-tree-operations" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C/Binary-search-tree-operations" afterDir="false" />
@@ -940,12 +947,11 @@
       <change beforePath="$PROJECT_DIR$/../../meme4th" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../website" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Register.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Register.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/Login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dashboard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Dashboard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ForgotPassword.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/ForgotPassword.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Login.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Register.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Register.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/FFXIV-Nael-Divebombs.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/dictionaries/super.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/misc.xml" beforeDir="false" />
@@ -4388,6 +4394,7 @@
       <list>
         <option value="CSS File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -4410,6 +4417,11 @@
     <property name="nodejs_interpreter_path" value="$APPLICATION_CONFIG_DIR$/node/node-v12.13.1-win-x64/node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="E:\my-documents\Programming_Related\Javascript\COMP3900\frontend\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\my-documents\Programming_Related\Javascript\COMP3900\frontend\src\Views" />
+    </key>
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -4436,7 +4448,7 @@
       <updated>1632611519287</updated>
       <workItem from="1632611520557" duration="864000" />
       <workItem from="1632612402461" duration="1788000" />
-      <workItem from="1632614215517" duration="3212000" />
+      <workItem from="1632614215517" duration="7864000" />
     </task>
     <servers />
   </component>

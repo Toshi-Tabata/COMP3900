@@ -1,6 +1,6 @@
 import React, { FC } from 'react'
 import { Form, Button } from 'react-bootstrap';
-import { useHistory } from 'react-router-dom';
+import { useHistory, Link } from 'react-router-dom';
 import '../styles/Register.css';
 
 
@@ -49,7 +49,7 @@ const Register: FC<Props> = (props) => {
                         Register
                     </Button>
                     <div>
-                        <a href={""} onClick={() => history.push("/login")}>Already have an account? <br/> Login Now</a>
+                        <Link to={"login"} >Already have an account? <br/> Login Now</Link>
                     </div>
                 </div>
             </Form>
