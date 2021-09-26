@@ -8,6 +8,7 @@ import {
     Switch,
     Route,
 } from 'react-router-dom';
+import Register from "./components/Register";
 
 
 
@@ -18,7 +19,9 @@ function App() {
             <Route path="/login">
                 <Login/>
             </Route>
-
+            <Route path="/register">
+                <Register/>
+            </Route>u
 
             <Route path="/" exact>
                 <Login />

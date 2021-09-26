@@ -38,7 +38,7 @@
       <change afterPath="$PROJECT_DIR$/../../../Haskell/my-project/my-project.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blu/.idea/blu.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../blu/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Register.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../Python/scratch/.idea/scratch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Autohotkey" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Autohotkey" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../C/Binary-search-tree-operations" beforeDir="false" afterPath="$PROJECT_DIR$/../../../C/Binary-search-tree-operations" afterDir="false" />
@@ -937,13 +937,7 @@
       <change beforePath="$PROJECT_DIR$/../../draw" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../meme4th" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../website" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/FFXIV-Nael-Divebombs.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/dictionaries/super.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../Python/FFXIV-Nael-Divebombs/.idea/misc.xml" beforeDir="false" />
@@ -4434,7 +4428,7 @@
       <updated>1632611519287</updated>
       <workItem from="1632611520557" duration="864000" />
       <workItem from="1632612402461" duration="1788000" />
-      <workItem from="1632614215517" duration="604000" />
+      <workItem from="1632614215517" duration="1516000" />
     </task>
     <servers />
   </component>
